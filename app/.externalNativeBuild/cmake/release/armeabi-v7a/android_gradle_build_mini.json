@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "arcore-Release-armeabi-v7a": {
+      "artifactName": "arcore",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\build\\arcore-native\\jni\\armeabi-v7a\\libarcore_sdk_c.so"
+    },
+    "computer_vision_native-Release-armeabi-v7a": {
+      "artifactName": "computer_vision_native",
+      "buildCommand": "C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target computer_vision_native",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libcomputer_vision_native.so"
+    }
+  }
+}

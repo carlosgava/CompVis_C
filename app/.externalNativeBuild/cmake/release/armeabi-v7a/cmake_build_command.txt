@@ -1,0 +1,18 @@
+Executable : C:\Users\magna\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\magna\Downloads\arcore-android-sdk-1.5.0\arcore-android-sdk-1.5.0\samples\computervision_c\app
+-BC:\Users\magna\Downloads\arcore-android-sdk-1.5.0\arcore-android-sdk-1.5.0\samples\computervision_c\app\.externalNativeBuild\cmake\release\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-24
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\magna\Downloads\arcore-android-sdk-1.5.0\arcore-android-sdk-1.5.0\samples\computervision_c\app\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=C:\Users\magna\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_CXX_FLAGS=-std=c++11 -Wall
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\magna\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\magna\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_STL=c++_static
+-DARCORE_LIBPATH=C:\Users\magna\Downloads\arcore-android-sdk-1.5.0\arcore-android-sdk-1.5.0\samples\computervision_c\app\build/arcore-native/jni
+-DARCORE_INCLUDE=C:\Users\magna\Downloads\arcore-android-sdk-1.5.0\arcore-android-sdk-1.5.0\samples\computervision_c/../../libraries/include
+jvmArgs : 
+

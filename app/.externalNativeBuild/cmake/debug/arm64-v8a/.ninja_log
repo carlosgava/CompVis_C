@@ -1,0 +1,9 @@
+# ninja log v5
+46	634	0	CMakeFiles/computer_vision_native.dir/src/main/cpp/cpu_image_renderer.cc.o	fdce6a8d75076f7a
+25	758	0	CMakeFiles/computer_vision_native.dir/src/main/cpp/jni_interface.cc.o	346c03403bfd4275
+60	827	0	CMakeFiles/computer_vision_native.dir/src/main/cpp/util.cc.o	7c2420e8489a0bf4
+1	1192	0	CMakeFiles/computer_vision_native.dir/src/main/cpp/computer_vision_application.cc.o	f07df1ccf5e9a55f
+1192	3681	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libcomputer_vision_native.so	9c408752a74e5bcc
+2	409	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libcomputer_vision_native.so	9c408752a74e5bcc
+3	555	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libcomputer_vision_native.so	9c408752a74e5bcc
+2	458	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libcomputer_vision_native.so	9c408752a74e5bcc

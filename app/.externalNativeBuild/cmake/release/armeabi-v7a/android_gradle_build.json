@@ -1,0 +1,67 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"arcore-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "arcore",
+			"buildType" : "release",
+			"output" : "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\build/arcore-native/jni/armeabi-v7a/libarcore_sdk_c.so",
+			"toolchain" : "2607213673"
+		},
+		"computer_vision_native-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "computer_vision_native",
+			"buildCommand" : "C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target computer_vision_native",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/cpu_image_renderer.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/computer_vision_application.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/jni_interface.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/util.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/build/intermediates/cmake/release/obj/armeabi-v7a/libcomputer_vision_native.so",
+			"toolchain" : "2607213673"
+		}
+	},
+	"toolchains" : 
+	{
+		"2607213673" : 
+		{
+			"cCompilerExecutable" : "C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

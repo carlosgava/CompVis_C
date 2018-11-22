@@ -1,0 +1,3 @@
+C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/computer_vision_native.dir
+C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir

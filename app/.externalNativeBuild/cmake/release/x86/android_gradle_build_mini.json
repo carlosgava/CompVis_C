@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "arcore-Release-x86": {
+      "artifactName": "arcore",
+      "abi": "x86",
+      "output": "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\build\\arcore-native\\jni\\x86\\libarcore_sdk_c.so"
+    },
+    "computer_vision_native-Release-x86": {
+      "artifactName": "computer_vision_native",
+      "buildCommand": "C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\release\\x86 --target computer_vision_native",
+      "abi": "x86",
+      "output": "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libcomputer_vision_native.so"
+    }
+  }
+}

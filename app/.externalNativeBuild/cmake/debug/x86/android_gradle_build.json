@@ -1,0 +1,67 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"arcore-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "arcore",
+			"buildType" : "debug",
+			"output" : "C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\build/arcore-native/jni/x86/libarcore_sdk_c.so",
+			"toolchain" : "2607213673"
+		},
+		"computer_vision_native-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "computer_vision_native",
+			"buildCommand" : "C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target computer_vision_native",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/cpu_image_renderer.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/computer_vision_application.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/jni_interface.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\magna\\Downloads\\arcore-android-sdk-1.5.0\\arcore-android-sdk-1.5.0\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\magna\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/src/main/cpp/util.cc",
+					"workingDirectory" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "C:/Users/magna/Downloads/arcore-android-sdk-1.5.0/arcore-android-sdk-1.5.0/samples/computervision_c/app/build/intermediates/cmake/debug/obj/x86/libcomputer_vision_native.so",
+			"toolchain" : "2607213673"
+		}
+	},
+	"toolchains" : 
+	{
+		"2607213673" : 
+		{
+			"cCompilerExecutable" : "C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/magna/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
